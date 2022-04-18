@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+    margin:200px;
+    text-align: center;
+    
+}
+
+#banner{
+    font-size: 40px;
+    text-transform: uppercase;
+    background-color:   #f9544c;
+    color: white;
+    height: 100px;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 30px;
+}
+#clock{
+    background-color: #000d2e;
+    font-size: 70px;
+    color:white;
+    height: 200px;
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
