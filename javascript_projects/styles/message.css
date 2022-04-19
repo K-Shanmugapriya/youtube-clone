@@ -1,0 +1,26 @@
+body{
+    background-color: #000d2e;
+    text-align: center;
+}
+
+.container {
+    position: absolute;
+    width: 395px;
+    height: 540px;
+    margin-left: 550px;
+    margin-top: 65px;
+    background-color: #f9544c;
+    padding-left: 30px;
+    font-family: 'Nunito', sans-serif;
+}
+
+#output{
+    margin-top: 45px;
+    width: 100px;
+    background: #f9544c ;
+    margin: 100px auto 100px;
+    text-align: center;
+    font-family: 'Lobster Two',cursive;
+}
+
+
