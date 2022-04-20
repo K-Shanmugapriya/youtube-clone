@@ -1,9 +1,14 @@
+body {
+  
+  background-color: #000d2e;
+}
 .container {
     display: flex;
     justify-content: space-between;
   }
   
   button {
+    color: lightslategray;
     height: 50px;
     width: 50px;
   }
